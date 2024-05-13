@@ -4,7 +4,8 @@
 
 
 
-![HAHAHHA](https://github.com/000x999/000x999/assets/124853841/122f4f6a-8e68-4b03-ad44-62e84f6cee6f)
+![CENTEREDFINALLY](https://github.com/000x999/000x999/assets/124853841/e33c29f0-ffd2-4697-a2ed-eb5c7db73b27)
+
 
 
 
