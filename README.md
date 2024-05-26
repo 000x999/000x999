@@ -10,7 +10,7 @@
 ### 👾About me👾 : 
 - Programming Languages: C++ and Haskell are my most used languages.
 - Interests:
-    - Developing physics engines and game engines.
+    - Developing physics engines and graphics engines.
     -  Designing efficient data structures.
     -  Coding and researching optimizations for performance enhancements.
     -  Robotics, NetPWNING, CyberSec and all things hardware related.
