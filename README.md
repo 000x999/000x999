@@ -4,19 +4,13 @@
 
 ![FINALLYDFKJDS](https://github.com/000x999/000x999/assets/124853841/0323aa2c-213d-469e-b34c-af6d988319ef)
 
-#### *This animation was made entirely in JS.*
+####
 ---
 
 ### 👾About me👾 : 
 - Programming Languages: C++ and Haskell are my most used languages.
-- Interests:
-    - Developing physics engines and graphics engines.
-    -  Designing efficient data structures.
-    -  Coding and researching optimizations for performance enhancements.
-    -  Robotics, NetPWNING, CyberSec and all things hardware related.
 - Mathematics: Passionate about linear algebra and its applications in computing.
 - Research Focus: Deep dives into advanced topics in computer science and mathematics, with ongoing research projects.
-- Goal: Leveraging mathematical concepts and modern programming techniques to solve complex problems and innovate within the field.
 
 ---
 
