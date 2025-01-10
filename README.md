@@ -11,6 +11,3 @@
 - C++, Python, Haskell and Assembly are my most used languages.
 - Passionate about mathematics, specifically linear algebra and its applications in computing.
 - Deep dives into advanced topics in Computer Science, Deep Learning/Machine Learning, Robotics and mathematics, with ongoing research projects.
-<br />
-
----
