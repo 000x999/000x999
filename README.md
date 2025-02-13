@@ -1,7 +1,6 @@
 # 000x999
 
-### About me: 
-- C++, Python, Haskell and Assembly are my most used languages.
-- Passionate about mathematics, specifically linear algebra and its applications in computing.
-- Deep dives into advanced topics in Computer Science, Physics/Graphics Engines, Deep Learning/Machine Learning, Robotics and Mathematics, with ongoing research projects.
-- OpenGL, Vulkan, CUDA, PyTorch, OpenCV, x64dbg and Ghidra
+- Languages: C++, Python, Haskell, Assembly
+- Frameworks: Boost, Qt, C POSIX, Dear ImGUI, C++ STL, POCO, libcurl, NoSQL
+- Developer Tools: x64dbg, Ghidra, IDA Pro, NSight, DTrace, Orbit Profiler, NeoVim, PowerShell
+- Libraries: OpenGL, SDL, Vulkan, CUDA, OpenCL, Eigen, AVX/SSE, PyTorch, OpenCV, Numpy, MatplotLib, Scikit
