@@ -1,7 +1,7 @@
 # 000x999
 
-- Languages: C++, Assembly, Fortran, Python, Haskell
-- HPC/GPU: CUDA, ROCm, Vulkan, OpenGL, Metal, OpenCL, AVX2/AVX512, SSE, NEON, OpenMP, OpenMPI, LLVM, MLIR
-- Libraries: Eigen, OpenCV, PyTorch, BLAS/LAPACK, Numpy, Scikit
-- Developer Tools: x64dbg, Ghidra, IDA Pro, NSight, Orbit Profiler, DTrace, Perf, CMake, Make
-- Frameworks: Boost, C++ STL, Qt, Dear ImGUI
+- Languages: C++, C, Python, Assembly, Fortran
+- ML/Numerics: PyTorch, vLLM, llama.cpp, BLAS/LAPACK, NumPy, Eigen, OpenCV
+- Compilers: LLVM, MLIR, TACO
+- HPC/GPU: CUDA, ROCm, Vulkan, Metal, OpenCL, AVX2/AVX-512, NEON, OpenMP, MPI
+- Developer Tools: Linux, perf, Nsight, Orbit Profiler, DTrace, CMake, Make, Qt, Dear ImGui
